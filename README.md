@@ -105,22 +105,23 @@ A full-stack job portal connecting recruiters and candidates through role-based 
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabh-chalke&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=F4C95D&text_color=E5E7EB" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=sourabh-chalke&hide_border=true&background=0D1117&ring=34D399&fire=F4C95D&currStreakLabel=34D399&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sourabhchalke&show_icons=true&hide_border=true&bg_color=0D1117&title_color=34D399&icon_color=F4C95D&text_color=E5E7EB" alt="GitHub Stats"/>
+
+  <img width="49%" src="https://streak-stats.demolab.com?user=sourabhchalke&hide_border=true&background=0D1117&ring=34D399&fire=F4C95D&currStreakLabel=34D399&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh-chalke&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=E5E7EB" alt="Top Languages"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhchalke&layout=compact&hide_border=true&bg_color=0D1117&title_color=34D399&text_color=E5E7EB" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sourabh-chalke&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sourabhchalke&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
 </p>
 
----
 
 ## 🌐 Connect With Me
 
